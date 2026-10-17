@@ -202,6 +202,12 @@
       <CTAButton {phase} onClick={handleRoll} />
     </div>
 
+    <div class="mb-8">
+      <a href="/explore" class="inline-block px-6 py-3 border border-white/40 rounded-lg text-white hover:bg-white/10 transition-colors">
+        Explore the infinite tattoo grid →
+      </a>
+    </div>
+
     <!-- Disclaimer -->
     <p
       class="text-sm font-light text-gray-300 max-w-lg mx-auto tracking-wide animate-fade-in-up animation-delay-600 hover-lift"
